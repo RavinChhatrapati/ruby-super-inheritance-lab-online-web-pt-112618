@@ -5,6 +5,6 @@ puts "How are you doing today? I'm okay, but I'm kind of tired. Did you watch Th
 end
 def raise_hand
   super
-  puts "Pick me!Pick me!Pick me!Pick me!Pick me!Pick me!Pick me!Pick me!Pick me!Pick me!"
+  puts "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n"
 end
 end
